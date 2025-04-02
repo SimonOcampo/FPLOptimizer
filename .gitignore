@@ -1,0 +1,18 @@
+# .gitignore
+
+# Ignore all downloaded data files
+data/*.json
+
+# Ignore temporary notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (if you use one)
+env/
+venv/
+
+# Optional: Ignore large files or logs
+*.log
