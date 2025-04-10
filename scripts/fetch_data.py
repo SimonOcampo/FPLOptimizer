@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # Create data folder if it doesn't exist
-DATA_DIR = "../data"
+DATA_DIR = "data/raw"
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # Function to get data from url

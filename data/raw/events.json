@@ -1531,7 +1531,7 @@
     "deadline_time_epoch": 1741431600,
     "deadline_time_game_offset": 0,
     "highest_score": 122,
-    "is_previous": true,
+    "is_previous": false,
     "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
@@ -1592,7 +1592,7 @@
     "deadline_time_game_offset": 0,
     "highest_score": 129,
     "is_previous": false,
-    "is_current": true,
+    "is_current": false,
     "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
@@ -1644,22 +1644,22 @@
     "name": "Gameweek 30",
     "deadline_time": "2025-04-01T17:15:00Z",
     "release_time": null,
-    "average_entry_score": 0,
-    "finished": false,
-    "data_checked": false,
-    "highest_scoring_entry": null,
+    "average_entry_score": 44,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 11409817,
     "deadline_time_epoch": 1743527700,
     "deadline_time_game_offset": 0,
-    "highest_score": null,
-    "is_previous": false,
+    "highest_score": 108,
+    "is_previous": true,
     "is_current": false,
-    "is_next": true,
+    "is_next": false,
     "cup_leagues_created": true,
     "h2h_ko_matches_created": true,
-    "can_enter": true,
-    "can_manage": true,
+    "can_enter": false,
+    "can_manage": false,
     "released": true,
-    "ranked_count": 0,
+    "ranked_count": 11367765,
     "overrides": {
       "rules": {},
       "scoring": {},
@@ -1668,53 +1668,96 @@
     },
     "chip_plays": [
       {
+        "chip_name": "bboost",
+        "num_played": 70180
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 33497
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 658984
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 32218
+      },
+      {
         "chip_name": "manager",
-        "num_played": 109702
+        "num_played": 276833
       }
     ],
-    "most_selected": null,
-    "most_transferred_in": null,
-    "top_element": null,
-    "top_element_info": null,
-    "transfers_made": 0,
-    "most_captained": null,
-    "most_vice_captained": null
+    "most_selected": 328,
+    "most_transferred_in": 755,
+    "top_element": 762,
+    "top_element_info": {
+      "id": 762,
+      "points": 12
+    },
+    "transfers_made": 15567710,
+    "most_captained": 328,
+    "most_vice_captained": 401
   },
   {
     "id": 31,
     "name": "Gameweek 31",
     "deadline_time": "2025-04-05T10:00:00Z",
     "release_time": null,
-    "average_entry_score": 0,
-    "finished": false,
-    "data_checked": false,
-    "highest_scoring_entry": null,
+    "average_entry_score": 34,
+    "finished": true,
+    "data_checked": true,
+    "highest_scoring_entry": 2430340,
     "deadline_time_epoch": 1743847200,
     "deadline_time_game_offset": 0,
-    "highest_score": null,
+    "highest_score": 109,
     "is_previous": false,
-    "is_current": false,
+    "is_current": true,
     "is_next": false,
-    "cup_leagues_created": false,
-    "h2h_ko_matches_created": false,
+    "cup_leagues_created": true,
+    "h2h_ko_matches_created": true,
     "can_enter": false,
     "can_manage": false,
     "released": true,
-    "ranked_count": 0,
+    "ranked_count": 11373405,
     "overrides": {
       "rules": {},
       "scoring": {},
       "element_types": [],
       "pick_multiplier": null
     },
-    "chip_plays": [],
-    "most_selected": null,
-    "most_transferred_in": null,
-    "top_element": null,
-    "top_element_info": null,
-    "transfers_made": 0,
-    "most_captained": null,
-    "most_vice_captained": null
+    "chip_plays": [
+      {
+        "chip_name": "bboost",
+        "num_played": 30471
+      },
+      {
+        "chip_name": "freehit",
+        "num_played": 35898
+      },
+      {
+        "chip_name": "wildcard",
+        "num_played": 476122
+      },
+      {
+        "chip_name": "3xc",
+        "num_played": 14043
+      },
+      {
+        "chip_name": "manager",
+        "num_played": 275454
+      }
+    ],
+    "most_selected": 328,
+    "most_transferred_in": 17,
+    "top_element": 491,
+    "top_element_info": {
+      "id": 491,
+      "points": 18
+    },
+    "transfers_made": 11309600,
+    "most_captained": 328,
+    "most_vice_captained": 401
   },
   {
     "id": 32,
@@ -1730,11 +1773,11 @@
     "highest_score": null,
     "is_previous": false,
     "is_current": false,
-    "is_next": false,
-    "cup_leagues_created": false,
-    "h2h_ko_matches_created": false,
-    "can_enter": false,
-    "can_manage": false,
+    "is_next": true,
+    "cup_leagues_created": true,
+    "h2h_ko_matches_created": true,
+    "can_enter": true,
+    "can_manage": true,
     "released": true,
     "ranked_count": 0,
     "overrides": {
@@ -1863,13 +1906,13 @@
   {
     "id": 36,
     "name": "Gameweek 36",
-    "deadline_time": "2025-05-10T12:30:00Z",
+    "deadline_time": "2025-05-10T10:00:00Z",
     "release_time": null,
     "average_entry_score": 0,
     "finished": false,
     "data_checked": false,
     "highest_scoring_entry": null,
-    "deadline_time_epoch": 1746880200,
+    "deadline_time_epoch": 1746871200,
     "deadline_time_game_offset": 0,
     "highest_score": null,
     "is_previous": false,
