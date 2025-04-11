@@ -14,7 +14,7 @@ Fantasy Premier League Optimizer
   - [Done] `bootstrap-static.json`
   - [Done] `fixtures.json`
   - [Done] `events.json`
-- [ ] Add script to fetch `/api/element-summary/{player_id}/`
+- [Done] Add script to fetch `/api/element-summary/{player_id}/`
 - 📁 Output: `data/`
 
 **Owner:** `@TeammateA`
@@ -22,9 +22,9 @@ Fantasy Premier League Optimizer
 ---
 
 ### 2. Custom Fixture Difficulty Table
-- [ ] Use `fixtures.json` and `teams` data
-- [ ] Add opponent attack/defense strength per fixture
-- [ ] Normalize or rescale strengths if needed
+- [Done] Use `fixtures.json` and `teams` data
+- [Done] Add opponent attack/defense strength per fixture
+- [Done] Normalize or rescale strengths if needed
 - 📁 Output: `cleaned_data/fixture_difficulty.csv`
 
 **Owner:** `@TeammateB`
