@@ -1,0 +1,761 @@
+gameweek,team,opponent,is_home
+1,Arsenal,Wolves,True
+1,Aston Villa,West Ham,False
+1,Bournemouth,Nott'm Forest,False
+1,Brentford,Crystal Palace,True
+1,Brighton,Everton,False
+1,Chelsea,Man City,True
+1,Crystal Palace,Brentford,False
+1,Everton,Brighton,True
+1,Fulham,Man Utd,False
+1,Ipswich,Liverpool,True
+1,Leicester,Spurs,True
+1,Liverpool,Ipswich,False
+1,Man City,Chelsea,False
+1,Man Utd,Fulham,True
+1,Newcastle,Southampton,True
+1,Nott'm Forest,Bournemouth,True
+1,Southampton,Newcastle,False
+1,Spurs,Leicester,False
+1,West Ham,Aston Villa,True
+1,Wolves,Arsenal,False
+2,Arsenal,Aston Villa,False
+2,Aston Villa,Arsenal,True
+2,Bournemouth,Newcastle,True
+2,Brentford,Liverpool,False
+2,Brighton,Man Utd,True
+2,Chelsea,Wolves,False
+2,Crystal Palace,West Ham,True
+2,Everton,Spurs,False
+2,Fulham,Leicester,True
+2,Ipswich,Man City,False
+2,Leicester,Fulham,False
+2,Liverpool,Brentford,True
+2,Man City,Ipswich,True
+2,Man Utd,Brighton,False
+2,Newcastle,Bournemouth,False
+2,Nott'm Forest,Southampton,False
+2,Southampton,Nott'm Forest,True
+2,Spurs,Everton,True
+2,West Ham,Crystal Palace,False
+2,Wolves,Chelsea,True
+3,Arsenal,Brighton,True
+3,Aston Villa,Leicester,False
+3,Bournemouth,Everton,False
+3,Brentford,Southampton,True
+3,Brighton,Arsenal,False
+3,Chelsea,Crystal Palace,True
+3,Crystal Palace,Chelsea,False
+3,Everton,Bournemouth,True
+3,Fulham,Ipswich,False
+3,Ipswich,Fulham,True
+3,Leicester,Aston Villa,True
+3,Liverpool,Man Utd,False
+3,Man City,West Ham,False
+3,Man Utd,Liverpool,True
+3,Newcastle,Spurs,True
+3,Nott'm Forest,Wolves,True
+3,Southampton,Brentford,False
+3,Spurs,Newcastle,False
+3,West Ham,Man City,True
+3,Wolves,Nott'm Forest,False
+4,Arsenal,Spurs,False
+4,Aston Villa,Everton,True
+4,Bournemouth,Chelsea,True
+4,Brentford,Man City,False
+4,Brighton,Ipswich,True
+4,Chelsea,Bournemouth,False
+4,Crystal Palace,Leicester,True
+4,Everton,Aston Villa,False
+4,Fulham,West Ham,True
+4,Ipswich,Brighton,False
+4,Leicester,Crystal Palace,False
+4,Liverpool,Nott'm Forest,True
+4,Man City,Brentford,True
+4,Man Utd,Southampton,False
+4,Newcastle,Wolves,False
+4,Nott'm Forest,Liverpool,False
+4,Southampton,Man Utd,True
+4,Spurs,Arsenal,True
+4,West Ham,Fulham,False
+4,Wolves,Newcastle,True
+5,Arsenal,Man City,False
+5,Aston Villa,Wolves,True
+5,Bournemouth,Liverpool,False
+5,Brentford,Spurs,False
+5,Brighton,Nott'm Forest,True
+5,Chelsea,West Ham,False
+5,Crystal Palace,Man Utd,True
+5,Everton,Leicester,False
+5,Fulham,Newcastle,True
+5,Ipswich,Southampton,False
+5,Leicester,Everton,True
+5,Liverpool,Bournemouth,True
+5,Man City,Arsenal,True
+5,Man Utd,Crystal Palace,False
+5,Newcastle,Fulham,False
+5,Nott'm Forest,Brighton,False
+5,Southampton,Ipswich,True
+5,Spurs,Brentford,True
+5,West Ham,Chelsea,True
+5,Wolves,Aston Villa,False
+6,Arsenal,Leicester,True
+6,Aston Villa,Ipswich,False
+6,Bournemouth,Southampton,True
+6,Brentford,West Ham,True
+6,Brighton,Chelsea,False
+6,Chelsea,Brighton,True
+6,Crystal Palace,Everton,False
+6,Everton,Crystal Palace,True
+6,Fulham,Nott'm Forest,False
+6,Ipswich,Aston Villa,True
+6,Leicester,Arsenal,False
+6,Liverpool,Wolves,False
+6,Man City,Newcastle,False
+6,Man Utd,Spurs,True
+6,Newcastle,Man City,True
+6,Nott'm Forest,Fulham,True
+6,Southampton,Bournemouth,False
+6,Spurs,Man Utd,False
+6,West Ham,Brentford,False
+6,Wolves,Liverpool,True
+7,Arsenal,Southampton,True
+7,Aston Villa,Man Utd,True
+7,Bournemouth,Leicester,False
+7,Brentford,Wolves,True
+7,Brighton,Spurs,True
+7,Chelsea,Nott'm Forest,True
+7,Crystal Palace,Liverpool,True
+7,Everton,Newcastle,True
+7,Fulham,Man City,False
+7,Ipswich,West Ham,False
+7,Leicester,Bournemouth,True
+7,Liverpool,Crystal Palace,False
+7,Man City,Fulham,True
+7,Man Utd,Aston Villa,False
+7,Newcastle,Everton,False
+7,Nott'm Forest,Chelsea,False
+7,Southampton,Arsenal,False
+7,Spurs,Brighton,False
+7,West Ham,Ipswich,True
+7,Wolves,Brentford,False
+8,Arsenal,Bournemouth,False
+8,Aston Villa,Fulham,False
+8,Bournemouth,Arsenal,True
+8,Brentford,Man Utd,False
+8,Brighton,Newcastle,False
+8,Chelsea,Liverpool,False
+8,Crystal Palace,Nott'm Forest,False
+8,Everton,Ipswich,False
+8,Fulham,Aston Villa,True
+8,Ipswich,Everton,True
+8,Leicester,Southampton,False
+8,Liverpool,Chelsea,True
+8,Man City,Wolves,False
+8,Man Utd,Brentford,True
+8,Newcastle,Brighton,True
+8,Nott'm Forest,Crystal Palace,True
+8,Southampton,Leicester,True
+8,Spurs,West Ham,True
+8,West Ham,Spurs,False
+8,Wolves,Man City,True
+9,Arsenal,Liverpool,True
+9,Aston Villa,Bournemouth,True
+9,Bournemouth,Aston Villa,False
+9,Brentford,Ipswich,True
+9,Brighton,Wolves,True
+9,Chelsea,Newcastle,True
+9,Crystal Palace,Spurs,True
+9,Everton,Fulham,True
+9,Fulham,Everton,False
+9,Ipswich,Brentford,False
+9,Leicester,Nott'm Forest,True
+9,Liverpool,Arsenal,False
+9,Man City,Southampton,True
+9,Man Utd,West Ham,False
+9,Newcastle,Chelsea,False
+9,Nott'm Forest,Leicester,False
+9,Southampton,Man City,False
+9,Spurs,Crystal Palace,False
+9,West Ham,Man Utd,True
+9,Wolves,Brighton,False
+10,Arsenal,Newcastle,False
+10,Aston Villa,Spurs,False
+10,Bournemouth,Man City,True
+10,Brentford,Fulham,False
+10,Brighton,Liverpool,False
+10,Chelsea,Man Utd,False
+10,Crystal Palace,Wolves,False
+10,Everton,Southampton,False
+10,Fulham,Brentford,True
+10,Ipswich,Leicester,True
+10,Leicester,Ipswich,False
+10,Liverpool,Brighton,True
+10,Man City,Bournemouth,False
+10,Man Utd,Chelsea,True
+10,Newcastle,Arsenal,True
+10,Nott'm Forest,West Ham,True
+10,Southampton,Everton,True
+10,Spurs,Aston Villa,True
+10,West Ham,Nott'm Forest,False
+10,Wolves,Crystal Palace,True
+11,Arsenal,Chelsea,False
+11,Aston Villa,Liverpool,False
+11,Bournemouth,Brentford,False
+11,Brentford,Bournemouth,True
+11,Brighton,Man City,True
+11,Chelsea,Arsenal,True
+11,Crystal Palace,Fulham,True
+11,Everton,West Ham,False
+11,Fulham,Crystal Palace,False
+11,Ipswich,Spurs,False
+11,Leicester,Man Utd,False
+11,Liverpool,Aston Villa,True
+11,Man City,Brighton,False
+11,Man Utd,Leicester,True
+11,Newcastle,Nott'm Forest,False
+11,Nott'm Forest,Newcastle,True
+11,Southampton,Wolves,False
+11,Spurs,Ipswich,True
+11,West Ham,Everton,True
+11,Wolves,Southampton,True
+12,Arsenal,Nott'm Forest,True
+12,Aston Villa,Crystal Palace,True
+12,Bournemouth,Brighton,True
+12,Brentford,Everton,False
+12,Brighton,Bournemouth,False
+12,Chelsea,Leicester,False
+12,Crystal Palace,Aston Villa,False
+12,Everton,Brentford,True
+12,Fulham,Wolves,True
+12,Ipswich,Man Utd,True
+12,Leicester,Chelsea,True
+12,Liverpool,Southampton,False
+12,Man City,Spurs,True
+12,Man Utd,Ipswich,False
+12,Newcastle,West Ham,True
+12,Nott'm Forest,Arsenal,False
+12,Southampton,Liverpool,True
+12,Spurs,Man City,False
+12,West Ham,Newcastle,False
+12,Wolves,Fulham,False
+13,Arsenal,West Ham,False
+13,Aston Villa,Chelsea,False
+13,Bournemouth,Wolves,False
+13,Brentford,Leicester,True
+13,Brighton,Southampton,True
+13,Chelsea,Aston Villa,True
+13,Crystal Palace,Newcastle,True
+13,Everton,Man Utd,False
+13,Fulham,Spurs,False
+13,Ipswich,Nott'm Forest,False
+13,Leicester,Brentford,False
+13,Liverpool,Man City,True
+13,Man City,Liverpool,False
+13,Man Utd,Everton,True
+13,Newcastle,Crystal Palace,False
+13,Nott'm Forest,Ipswich,True
+13,Southampton,Brighton,False
+13,Spurs,Fulham,True
+13,West Ham,Arsenal,True
+13,Wolves,Bournemouth,True
+14,Arsenal,Man Utd,True
+14,Aston Villa,Brentford,True
+14,Bournemouth,Spurs,True
+14,Brentford,Aston Villa,False
+14,Brighton,Fulham,False
+14,Chelsea,Southampton,False
+14,Crystal Palace,Ipswich,False
+14,Everton,Wolves,True
+14,Fulham,Brighton,True
+14,Ipswich,Crystal Palace,True
+14,Leicester,West Ham,True
+14,Liverpool,Newcastle,False
+14,Man City,Nott'm Forest,True
+14,Man Utd,Arsenal,False
+14,Newcastle,Liverpool,True
+14,Nott'm Forest,Man City,False
+14,Southampton,Chelsea,True
+14,Spurs,Bournemouth,False
+14,West Ham,Leicester,False
+14,Wolves,Everton,False
+15,Arsenal,Fulham,False
+15,Aston Villa,Southampton,True
+15,Bournemouth,Ipswich,False
+15,Brentford,Newcastle,True
+15,Brighton,Leicester,False
+15,Chelsea,Spurs,False
+15,Crystal Palace,Man City,True
+15,Fulham,Arsenal,True
+15,Ipswich,Bournemouth,True
+15,Leicester,Brighton,True
+15,Man City,Crystal Palace,False
+15,Man Utd,Nott'm Forest,True
+15,Newcastle,Brentford,False
+15,Nott'm Forest,Man Utd,False
+15,Southampton,Aston Villa,False
+15,Spurs,Chelsea,True
+15,West Ham,Wolves,True
+15,Wolves,West Ham,False
+16,Arsenal,Everton,True
+16,Aston Villa,Nott'm Forest,False
+16,Bournemouth,West Ham,True
+16,Brentford,Chelsea,False
+16,Brighton,Crystal Palace,True
+16,Chelsea,Brentford,True
+16,Crystal Palace,Brighton,False
+16,Everton,Arsenal,False
+16,Fulham,Liverpool,False
+16,Ipswich,Wolves,False
+16,Leicester,Newcastle,False
+16,Liverpool,Fulham,True
+16,Man City,Man Utd,True
+16,Man Utd,Man City,False
+16,Newcastle,Leicester,True
+16,Nott'm Forest,Aston Villa,True
+16,Southampton,Spurs,True
+16,Spurs,Southampton,False
+16,West Ham,Bournemouth,False
+16,Wolves,Ipswich,True
+17,Arsenal,Crystal Palace,False
+17,Aston Villa,Man City,True
+17,Bournemouth,Man Utd,False
+17,Brentford,Nott'm Forest,True
+17,Brighton,West Ham,False
+17,Chelsea,Everton,False
+17,Crystal Palace,Arsenal,True
+17,Everton,Chelsea,True
+17,Fulham,Southampton,True
+17,Ipswich,Newcastle,True
+17,Leicester,Wolves,True
+17,Liverpool,Spurs,False
+17,Man City,Aston Villa,False
+17,Man Utd,Bournemouth,True
+17,Newcastle,Ipswich,False
+17,Nott'm Forest,Brentford,False
+17,Southampton,Fulham,False
+17,Spurs,Liverpool,True
+17,West Ham,Brighton,True
+17,Wolves,Leicester,False
+18,Arsenal,Ipswich,True
+18,Aston Villa,Newcastle,False
+18,Bournemouth,Crystal Palace,True
+18,Brentford,Brighton,False
+18,Brighton,Brentford,True
+18,Chelsea,Fulham,True
+18,Crystal Palace,Bournemouth,False
+18,Everton,Man City,False
+18,Fulham,Chelsea,False
+18,Ipswich,Arsenal,False
+18,Leicester,Liverpool,False
+18,Liverpool,Leicester,True
+18,Man City,Everton,True
+18,Man Utd,Wolves,False
+18,Newcastle,Aston Villa,True
+18,Nott'm Forest,Spurs,True
+18,Southampton,West Ham,True
+18,Spurs,Nott'm Forest,False
+18,West Ham,Southampton,False
+18,Wolves,Man Utd,True
+19,Arsenal,Brentford,False
+19,Aston Villa,Brighton,True
+19,Bournemouth,Fulham,False
+19,Brentford,Arsenal,True
+19,Brighton,Aston Villa,False
+19,Chelsea,Ipswich,False
+19,Crystal Palace,Southampton,True
+19,Everton,Nott'm Forest,True
+19,Fulham,Bournemouth,True
+19,Ipswich,Chelsea,True
+19,Leicester,Man City,True
+19,Liverpool,West Ham,False
+19,Man City,Leicester,False
+19,Man Utd,Newcastle,True
+19,Newcastle,Man Utd,False
+19,Nott'm Forest,Everton,False
+19,Southampton,Crystal Palace,False
+19,Spurs,Wolves,True
+19,West Ham,Liverpool,True
+19,Wolves,Spurs,False
+20,Arsenal,Brighton,False
+20,Aston Villa,Leicester,True
+20,Bournemouth,Everton,True
+20,Brentford,Southampton,False
+20,Brighton,Arsenal,True
+20,Chelsea,Crystal Palace,False
+20,Crystal Palace,Chelsea,True
+20,Everton,Bournemouth,False
+20,Fulham,Ipswich,True
+20,Ipswich,Fulham,False
+20,Leicester,Aston Villa,False
+20,Liverpool,Man Utd,True
+20,Man City,West Ham,True
+20,Man Utd,Liverpool,False
+20,Newcastle,Spurs,False
+20,Nott'm Forest,Wolves,False
+20,Southampton,Brentford,True
+20,Spurs,Newcastle,True
+20,West Ham,Man City,False
+20,Wolves,Nott'm Forest,True
+21,Arsenal,Spurs,True
+21,Aston Villa,Everton,False
+21,Bournemouth,Chelsea,False
+21,Brentford,Man City,True
+21,Brighton,Ipswich,False
+21,Chelsea,Bournemouth,True
+21,Crystal Palace,Leicester,False
+21,Everton,Aston Villa,True
+21,Fulham,West Ham,False
+21,Ipswich,Brighton,True
+21,Leicester,Crystal Palace,True
+21,Liverpool,Nott'm Forest,False
+21,Man City,Brentford,False
+21,Man Utd,Southampton,True
+21,Newcastle,Wolves,True
+21,Nott'm Forest,Liverpool,True
+21,Southampton,Man Utd,False
+21,Spurs,Arsenal,False
+21,West Ham,Fulham,True
+21,Wolves,Newcastle,False
+22,Arsenal,Aston Villa,True
+22,Aston Villa,Arsenal,False
+22,Bournemouth,Newcastle,False
+22,Brentford,Liverpool,True
+22,Brighton,Man Utd,False
+22,Chelsea,Wolves,True
+22,Crystal Palace,West Ham,False
+22,Everton,Spurs,True
+22,Fulham,Leicester,False
+22,Ipswich,Man City,True
+22,Leicester,Fulham,True
+22,Liverpool,Brentford,False
+22,Man City,Ipswich,False
+22,Man Utd,Brighton,True
+22,Newcastle,Bournemouth,True
+22,Nott'm Forest,Southampton,True
+22,Southampton,Nott'm Forest,False
+22,Spurs,Everton,False
+22,West Ham,Crystal Palace,True
+22,Wolves,Chelsea,False
+23,Arsenal,Wolves,False
+23,Aston Villa,West Ham,True
+23,Bournemouth,Nott'm Forest,True
+23,Brentford,Crystal Palace,False
+23,Brighton,Everton,True
+23,Chelsea,Man City,False
+23,Crystal Palace,Brentford,True
+23,Everton,Brighton,False
+23,Fulham,Man Utd,True
+23,Ipswich,Liverpool,False
+23,Leicester,Spurs,False
+23,Liverpool,Ipswich,True
+23,Man City,Chelsea,True
+23,Man Utd,Fulham,False
+23,Newcastle,Southampton,False
+23,Nott'm Forest,Bournemouth,False
+23,Southampton,Newcastle,True
+23,Spurs,Leicester,True
+23,West Ham,Aston Villa,False
+23,Wolves,Arsenal,True
+24,Arsenal,Man City,True
+24,Aston Villa,Wolves,False
+24,Bournemouth,Liverpool,True
+24,Brentford,Spurs,True
+24,Brighton,Nott'm Forest,False
+24,Chelsea,West Ham,True
+24,Crystal Palace,Man Utd,False
+24,Everton,Leicester,True
+24,Everton,Liverpool,True
+24,Fulham,Newcastle,False
+24,Ipswich,Southampton,True
+24,Leicester,Everton,False
+24,Liverpool,Bournemouth,False
+24,Liverpool,Everton,False
+24,Man City,Arsenal,False
+24,Man Utd,Crystal Palace,True
+24,Newcastle,Fulham,True
+24,Nott'm Forest,Brighton,True
+24,Southampton,Ipswich,False
+24,Spurs,Brentford,False
+24,West Ham,Chelsea,False
+24,Wolves,Aston Villa,True
+25,Arsenal,Leicester,False
+25,Aston Villa,Ipswich,True
+25,Aston Villa,Liverpool,True
+25,Bournemouth,Southampton,False
+25,Brentford,West Ham,False
+25,Brighton,Chelsea,True
+25,Chelsea,Brighton,False
+25,Crystal Palace,Everton,True
+25,Everton,Crystal Palace,False
+25,Fulham,Nott'm Forest,True
+25,Ipswich,Aston Villa,False
+25,Leicester,Arsenal,True
+25,Liverpool,Wolves,True
+25,Liverpool,Aston Villa,False
+25,Man City,Newcastle,True
+25,Man Utd,Spurs,False
+25,Newcastle,Man City,False
+25,Nott'm Forest,Fulham,False
+25,Southampton,Bournemouth,True
+25,Spurs,Man Utd,True
+25,West Ham,Brentford,True
+25,Wolves,Liverpool,False
+26,Arsenal,West Ham,True
+26,Aston Villa,Chelsea,True
+26,Bournemouth,Wolves,True
+26,Brentford,Leicester,False
+26,Brighton,Southampton,False
+26,Chelsea,Aston Villa,False
+26,Crystal Palace,Fulham,False
+26,Everton,Man Utd,True
+26,Fulham,Crystal Palace,True
+26,Ipswich,Spurs,True
+26,Leicester,Brentford,True
+26,Liverpool,Man City,False
+26,Man City,Liverpool,True
+26,Man Utd,Everton,False
+26,Newcastle,Nott'm Forest,True
+26,Nott'm Forest,Newcastle,False
+26,Southampton,Brighton,True
+26,Spurs,Ipswich,False
+26,West Ham,Arsenal,False
+26,Wolves,Bournemouth,False
+27,Arsenal,Nott'm Forest,False
+27,Aston Villa,Crystal Palace,False
+27,Bournemouth,Brighton,False
+27,Brentford,Everton,True
+27,Brighton,Bournemouth,True
+27,Chelsea,Southampton,True
+27,Crystal Palace,Aston Villa,True
+27,Everton,Brentford,False
+27,Fulham,Wolves,False
+27,Ipswich,Man Utd,False
+27,Leicester,West Ham,False
+27,Liverpool,Newcastle,True
+27,Man City,Spurs,False
+27,Man Utd,Ipswich,True
+27,Newcastle,Liverpool,False
+27,Nott'm Forest,Arsenal,True
+27,Southampton,Chelsea,False
+27,Spurs,Man City,True
+27,West Ham,Leicester,True
+27,Wolves,Fulham,True
+28,Arsenal,Man Utd,False
+28,Aston Villa,Brentford,False
+28,Bournemouth,Spurs,False
+28,Brentford,Aston Villa,True
+28,Brighton,Fulham,True
+28,Chelsea,Leicester,True
+28,Crystal Palace,Ipswich,True
+28,Everton,Wolves,False
+28,Fulham,Brighton,False
+28,Ipswich,Crystal Palace,False
+28,Leicester,Chelsea,False
+28,Liverpool,Southampton,True
+28,Man City,Nott'm Forest,False
+28,Man Utd,Arsenal,True
+28,Newcastle,West Ham,False
+28,Nott'm Forest,Man City,True
+28,Southampton,Liverpool,False
+28,Spurs,Bournemouth,True
+28,West Ham,Newcastle,True
+28,Wolves,Everton,True
+29,Arsenal,Chelsea,True
+29,Bournemouth,Brentford,True
+29,Brentford,Bournemouth,False
+29,Brighton,Man City,False
+29,Chelsea,Arsenal,False
+29,Everton,West Ham,True
+29,Fulham,Spurs,True
+29,Ipswich,Nott'm Forest,True
+29,Leicester,Man Utd,True
+29,Man City,Brighton,True
+29,Man Utd,Leicester,False
+29,Nott'm Forest,Ipswich,False
+29,Southampton,Wolves,True
+29,Spurs,Fulham,False
+29,West Ham,Everton,False
+29,Wolves,Southampton,False
+30,Arsenal,Fulham,True
+30,Aston Villa,Brighton,False
+30,Bournemouth,Ipswich,True
+30,Brentford,Newcastle,False
+30,Brighton,Aston Villa,True
+30,Chelsea,Spurs,True
+30,Crystal Palace,Southampton,False
+30,Everton,Liverpool,False
+30,Fulham,Arsenal,False
+30,Ipswich,Bournemouth,False
+30,Leicester,Man City,False
+30,Liverpool,Everton,True
+30,Man City,Leicester,True
+30,Man Utd,Nott'm Forest,False
+30,Newcastle,Brentford,True
+30,Nott'm Forest,Man Utd,True
+30,Southampton,Crystal Palace,True
+30,Spurs,Chelsea,False
+30,West Ham,Wolves,False
+30,Wolves,West Ham,True
+31,Arsenal,Everton,False
+31,Aston Villa,Nott'm Forest,True
+31,Bournemouth,West Ham,False
+31,Brentford,Chelsea,True
+31,Brighton,Crystal Palace,False
+31,Chelsea,Brentford,False
+31,Crystal Palace,Brighton,True
+31,Everton,Arsenal,True
+31,Fulham,Liverpool,True
+31,Ipswich,Wolves,True
+31,Leicester,Newcastle,True
+31,Liverpool,Fulham,False
+31,Man City,Man Utd,False
+31,Man Utd,Man City,True
+31,Newcastle,Leicester,False
+31,Nott'm Forest,Aston Villa,False
+31,Southampton,Spurs,False
+31,Spurs,Southampton,True
+31,West Ham,Bournemouth,True
+31,Wolves,Ipswich,False
+32,Arsenal,Brentford,True
+32,Aston Villa,Southampton,False
+32,Bournemouth,Fulham,True
+32,Brentford,Arsenal,False
+32,Brighton,Leicester,True
+32,Chelsea,Ipswich,True
+32,Crystal Palace,Man City,False
+32,Crystal Palace,Newcastle,False
+32,Everton,Nott'm Forest,False
+32,Fulham,Bournemouth,False
+32,Ipswich,Chelsea,False
+32,Leicester,Brighton,False
+32,Liverpool,West Ham,True
+32,Man City,Crystal Palace,True
+32,Man Utd,Newcastle,False
+32,Newcastle,Man Utd,True
+32,Newcastle,Crystal Palace,True
+32,Nott'm Forest,Everton,True
+32,Southampton,Aston Villa,True
+32,Spurs,Wolves,False
+32,West Ham,Liverpool,False
+32,Wolves,Spurs,True
+33,Arsenal,Ipswich,False
+33,Arsenal,Crystal Palace,True
+33,Aston Villa,Newcastle,True
+33,Aston Villa,Man City,False
+33,Bournemouth,Crystal Palace,False
+33,Brentford,Brighton,True
+33,Brighton,Brentford,False
+33,Chelsea,Fulham,False
+33,Crystal Palace,Bournemouth,True
+33,Crystal Palace,Arsenal,False
+33,Everton,Man City,True
+33,Fulham,Chelsea,True
+33,Ipswich,Arsenal,True
+33,Leicester,Liverpool,True
+33,Liverpool,Leicester,False
+33,Man City,Everton,False
+33,Man City,Aston Villa,True
+33,Man Utd,Wolves,True
+33,Newcastle,Aston Villa,False
+33,Nott'm Forest,Spurs,False
+33,Southampton,West Ham,False
+33,Spurs,Nott'm Forest,True
+33,West Ham,Southampton,True
+33,Wolves,Man Utd,False
+34,Bournemouth,Man Utd,True
+34,Brentford,Nott'm Forest,False
+34,Brighton,West Ham,True
+34,Chelsea,Everton,True
+34,Everton,Chelsea,False
+34,Fulham,Southampton,False
+34,Ipswich,Newcastle,False
+34,Leicester,Wolves,False
+34,Liverpool,Spurs,True
+34,Man Utd,Bournemouth,False
+34,Newcastle,Ipswich,True
+34,Nott'm Forest,Brentford,True
+34,Southampton,Fulham,True
+34,Spurs,Liverpool,False
+34,West Ham,Brighton,False
+34,Wolves,Leicester,True
+35,Arsenal,Bournemouth,True
+35,Aston Villa,Fulham,True
+35,Bournemouth,Arsenal,False
+35,Brentford,Man Utd,True
+35,Brighton,Newcastle,True
+35,Chelsea,Liverpool,True
+35,Crystal Palace,Nott'm Forest,True
+35,Everton,Ipswich,True
+35,Fulham,Aston Villa,False
+35,Ipswich,Everton,False
+35,Leicester,Southampton,True
+35,Liverpool,Chelsea,False
+35,Man City,Wolves,True
+35,Man Utd,Brentford,False
+35,Newcastle,Brighton,False
+35,Nott'm Forest,Crystal Palace,False
+35,Southampton,Leicester,False
+35,Spurs,West Ham,False
+35,West Ham,Spurs,True
+35,Wolves,Man City,False
+36,Arsenal,Liverpool,False
+36,Aston Villa,Bournemouth,False
+36,Bournemouth,Aston Villa,True
+36,Brentford,Ipswich,False
+36,Brighton,Wolves,False
+36,Chelsea,Newcastle,False
+36,Crystal Palace,Spurs,False
+36,Everton,Fulham,False
+36,Fulham,Everton,True
+36,Ipswich,Brentford,True
+36,Leicester,Nott'm Forest,False
+36,Liverpool,Arsenal,True
+36,Man City,Southampton,False
+36,Man Utd,West Ham,True
+36,Newcastle,Chelsea,True
+36,Nott'm Forest,Leicester,True
+36,Southampton,Man City,True
+36,Spurs,Crystal Palace,True
+36,West Ham,Man Utd,False
+36,Wolves,Brighton,True
+37,Arsenal,Newcastle,True
+37,Aston Villa,Spurs,True
+37,Bournemouth,Man City,False
+37,Brentford,Fulham,True
+37,Brighton,Liverpool,True
+37,Chelsea,Man Utd,True
+37,Crystal Palace,Wolves,True
+37,Everton,Southampton,True
+37,Fulham,Brentford,False
+37,Ipswich,Leicester,False
+37,Leicester,Ipswich,True
+37,Liverpool,Brighton,False
+37,Man City,Bournemouth,True
+37,Man Utd,Chelsea,False
+37,Newcastle,Arsenal,False
+37,Nott'm Forest,West Ham,False
+37,Southampton,Everton,False
+37,Spurs,Aston Villa,False
+37,West Ham,Nott'm Forest,True
+37,Wolves,Crystal Palace,False
+38,Arsenal,Southampton,False
+38,Aston Villa,Man Utd,False
+38,Bournemouth,Leicester,True
+38,Brentford,Wolves,False
+38,Brighton,Spurs,False
+38,Chelsea,Nott'm Forest,False
+38,Crystal Palace,Liverpool,False
+38,Everton,Newcastle,False
+38,Fulham,Man City,True
+38,Ipswich,West Ham,True
+38,Leicester,Bournemouth,False
+38,Liverpool,Crystal Palace,True
+38,Man City,Fulham,False
+38,Man Utd,Aston Villa,True
+38,Newcastle,Everton,True
+38,Nott'm Forest,Chelsea,True
+38,Southampton,Arsenal,True
+38,Spurs,Brighton,True
+38,West Ham,Ipswich,False
+38,Wolves,Brentford,True
